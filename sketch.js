@@ -42,7 +42,7 @@ function setup() {
   slingShot = new Slingshot(this.ball, { x: 100, y: 200 });
 }
 function draw() {
-  background(107, 206, 237);
+  background(153, 217, 234);
 
   //Engine.update(engine);
   //text(mouseX + ',' + mouseY, 10, 15);
